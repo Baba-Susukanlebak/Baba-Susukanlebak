@@ -7,7 +7,7 @@
 - 🤔 I’m looking for suggest for Editor and Designer
 - 💬 Ask me about anything
 - 📫 How to reach me : [fr1301@protonmail.com](mail.proton.me)
-- ⚡ Fun fact: [User Linux Mint](linuxmint.com)
+- ⚡ Fun fact: User FOSS Ecosystem ex. GNU/Linux
 
 ## Education :
 
