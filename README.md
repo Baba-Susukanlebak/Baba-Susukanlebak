@@ -7,6 +7,8 @@
 - 🤔 I’m looking for suggest for Editor and Designer
 - 💬 Ask me about anything
 - 📫 How to reach me : [fr1301@protonmail.com](mail.proton.me)
+- ⚡ Fun fact: [User Linux Mint](linuxmint.com)
+
 ## Education :
 
 #### 1. [SMAN 1 Lemahabang]() | MIPA | Cirebon `2013-3016`
