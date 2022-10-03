@@ -1,4 +1,4 @@
-## Hi there 👋 , I'm Mulyawan - aka [Muhamad Fahri Mulyawan](https://www.linkedin.com/in/muhamad-fahri-mulyawan-477658235/)
+# Hi there 👋 , I'm Mulyawan - aka [Muhamad Fahri Mulyawan](https://www.linkedin.com/in/muhamad-fahri-mulyawan-477658235/)
 
 ## About me:
 - 🔭 I’m currently working at [Neohistoria]()
@@ -7,11 +7,12 @@
 - 🤔 I’m looking for suggest for Editor and Designer
 - 💬 Ask me about anything
 - 📫 How to reach me : [fr1301@protonmail.com](mail.proton.me)
-- ⚡ Fun fact: User FOSS Ecosystem ex. GNU/Linux
+- ⚡ Fun fact: User Linux Mint
 
 ## Education :
 
-#### 1. [SMAN 1 Lemahabang]() | MIPA | Cirebon `2013-3016`
+#### 1. [SMAN 1 Lemahabang]() | MIPA | Cirebon `2013-2016`
+#### 2. [Neohistoria]() | Text Editor | Semarang `2021-Present`
 
 <!--
 **Mulyawan04/Mulyawan04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
