@@ -1,4 +1,4 @@
-## Hi there 👋 , I'm Mulyawan - aka [Muhamad Fahri Mulyawan]()
+## Hi there 👋 , I'm Mulyawan - aka [Muhamad Fahri Mulyawan](https://www.linkedin.com/in/muhamad-fahri-mulyawan-477658235/)
 
 ## About me:
 - 🔭 I’m currently working at [Neohistoria]()
