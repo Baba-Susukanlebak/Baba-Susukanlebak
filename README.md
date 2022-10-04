@@ -1,12 +1,12 @@
 # Hi there 👋 , I'm Mulyawan - aka [Muhamad Fahri Mulyawan](https://www.linkedin.com/in/muhamad-fahri-mulyawan-477658235/)
 
 ## About me:
-- 🔭 I’m currently working at [Neohistoria]()
+- 🔭 I’m currently working at [Neohistoria](https://neohistoria.net)
 - 🌱 I’m currently learning Graphic Design
 - 👯 I’m looking to collaborate as a Editor and Graphic Designer
 - 🤔 I’m looking for suggest for Editor and Designer
 - 💬 Ask me about anything
-- 📫 How to reach me : [fr1301@protonmail.com](mail.proton.me)
+- 📫 How to reach me : [fr1301@protonmail.com](https://mail.proton.me)
 - ⚡ Fun fact: User Linux Mint
 
 ## Education :
