@@ -11,8 +11,8 @@
 
 ## Education :
 
-#### 1. [SMAN 1 Lemahabang]() | MIPA | Cirebon `2013-2016`
-#### 2. [Neohistoria]() | Text Editor | Semarang `2021-Present`
+#### 1. [SMAN 1 Lemahabang](sman1lacirebon.sch.id) | MIPA | Cirebon `2013-2016`
+#### 2. [Neohistoria](neohistoria.net) | Text Editor | Semarang `2021-Present`
 
 <!--
 **Mulyawan04/Mulyawan04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
