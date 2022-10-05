@@ -1,4 +1,4 @@
-# Hi semua 👋 , Saya Mulyawan - aka [Muhamad Fahri Mulyawan](https://www.linkedin.com/in/muhamad-fahri-mulyawan-477658235/)
+# Hi Semua 👋 , Saya Mulyawan - aka [Muhamad Fahri Mulyawan](https://www.linkedin.com/in/muhamad-fahri-mulyawan-477658235/)
 
 ## Tentang Saya:
 - 🔭 Saat ini berkarya di Komunitas [Neohistoria](https://neohistoria.net) sebagai seorang editor
