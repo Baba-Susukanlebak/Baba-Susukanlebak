@@ -1,15 +1,14 @@
 # Hi there 👋 , I'm Mulyawan - aka [Muhamad Fahri Mulyawan](https://www.linkedin.com/in/muhamad-fahri-mulyawan-477658235/)
 
-## About me:
-- 🔭 I’m currently working at [Neohistoria](https://neohistoria.net) as an editor
-- 🌱 I’m currently learning Graphic Design
-- 👯 I’m looking to collaborate as an Editor and Graphic Designer
-- 🤔 I’m looking for suggest for Editor and Designer
-- 💬 Ask me about anything
-- 📫 How to reach me : [fr1301@protonmail.com](https://mail.proton.me)
-- ⚡ Fun fact: User Linux Mint
+## Tentang Saya:
+- 🔭 Saat ini berkarya di Komunitas [Neohistoria](https://neohistoria.net) sebagai seorang editor
+- 🌱 Saat ini sedang mempelajari Graphic Design
+- 👯 Terbuka untuk kolaborasi sebagai Editor dan Graphic Designer
+- 💬 Silakan Memberikan Kritik dan Saran
+- 📫 Narahubung : [fr1301@protonmail.com](https://mail.proton.me)
+- ⚡ Sebuah Fakta Unik: Salah satu Pengguna Linux Mint
 
-## Education :
+## Rekam Jejak :
 
 #### 1. [SMAN 1 Lemahabang](https://www.sman1lacirebon.sch.id) | MIPA | Cirebon `2013-2016`
 #### 2. [Neohistoria](https://neohistoria.net) | Text Editor | Semarang `2021-Present`
