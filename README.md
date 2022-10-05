@@ -1,7 +1,7 @@
 # Hi there 👋 , I'm Mulyawan - aka [Muhamad Fahri Mulyawan](https://www.linkedin.com/in/muhamad-fahri-mulyawan-477658235/)
 
 ## About me:
-- 🔭 I’m currently working at [Neohistoria](https://neohistoria.net)
+- 🔭 I’m currently working at [Neohistoria](https://neohistoria.net) as a editor
 - 🌱 I’m currently learning Graphic Design
 - 👯 I’m looking to collaborate as a Editor and Graphic Designer
 - 🤔 I’m looking for suggest for Editor and Designer
