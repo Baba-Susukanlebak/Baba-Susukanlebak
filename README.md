@@ -1,4 +1,4 @@
-# Hi there 👋 , I'm Mulyawan - aka [Muhamad Fahri Mulyawan](https://www.linkedin.com/in/muhamad-fahri-mulyawan-477658235/)
+# Hi semua 👋 , Saya Mulyawan - aka [Muhamad Fahri Mulyawan](https://www.linkedin.com/in/muhamad-fahri-mulyawan-477658235/)
 
 ## Tentang Saya:
 - 🔭 Saat ini berkarya di Komunitas [Neohistoria](https://neohistoria.net) sebagai seorang editor
@@ -11,7 +11,7 @@
 ## Rekam Jejak :
 
 #### 1. [SMAN 1 Lemahabang](https://www.sman1lacirebon.sch.id) | MIPA | Cirebon `2013-2016`
-#### 2. [Neohistoria](https://neohistoria.net) | Text Editor | Semarang `2021-Present`
+#### 2. [Neohistoria](https://neohistoria.net) | Editor | Semarang `2021-Present`
 
 <!--
 **Mulyawan04/Mulyawan04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
