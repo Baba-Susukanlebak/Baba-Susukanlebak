@@ -6,7 +6,7 @@
 - 👯 Terbuka untuk kolaborasi sebagai Editor dan Graphic Designer
 - 💬 Silakan Memberikan Kritik dan Saran
 - 📫 Narahubung : [fr1301@protonmail.com](https://mail.proton.me)
-- ⚡ Sebuah Fakta Unik: Salah satu Pengguna Linux Mint
+- ⚡ Sebuah Fakta Unik: Salah Satu Pengguna Linux Mint
 
 ## Rekam Jejak :
 
