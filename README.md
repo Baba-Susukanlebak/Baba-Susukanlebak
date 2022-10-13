@@ -5,7 +5,7 @@
 - 🌱 Saat ini sedang mempelajari Graphic Design
 - 👯 Terbuka untuk kolaborasi sebagai Editor dan Graphic Designer
 - 💬 Silakan Memberikan Kritik dan Saran
-- 📫 Narahubung : [fr1301@protonmail.com](https://mail.proton.me)
+- 📫 Narahubung : 
 - ⚡ Sebuah Fakta Unik: Salah Satu Pengguna Linux Mint 21 Vanessa
 
 ## Rekam Jejak :
