@@ -13,6 +13,9 @@
 #### 1. [SMAN 1 Lemahabang](https://www.sman1lacirebon.sch.id) | MIPA | Cirebon `2013-2016`
 #### 2. [Neohistoria](https://neohistoria.net) | Editor | Semarang `2021-Present`
 
+## Lisensi dan Sertifikasi :
+#### 1. [Basic Spreadsheet for Data Analysis](https://www.buildwithangga.com) | Data Analysis | Semarang `2022`
+
 <!--
 **Mulyawan04/Mulyawan04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
