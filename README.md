@@ -1,17 +1,17 @@
-# Hi Semua 👋 , Saya Mulyawan - aka [Muhamad Fahri Mulyawan](https://www.linkedin.com/in/muhamad-fahri-mulyawan-477658235/)
+# Hi Semua 👋 , Saya Baba - aka [Baba Susukanlebak](https://www.instagram.com/baba.susukanlebak/)
 
 ## Tentang Saya:
 - 🔭 Saat ini berkarya sebagai seorang editor
 - 🌱 Saat ini sedang mempelajari Graphic Design
 - 👯 Terbuka untuk kolaborasi sebagai Editor dan Graphic Designer
 - 💬 Silakan Memberikan Kritik dan Saran
-- 📫 Narahubung : [Muhammad Fahri Mulyawan](https://medium.com/@fm132224)
+- 📫 Narahubung : babasusukanlebak@gmail.com
 - ⚡ Sebuah Fakta Unik: Salah Satu Pengguna Linux Mint 21 Vanessa
-
+<!--
 ## Rekam Jejak :
 #### 1. [SMAN 1 Lemahabang](https://www.sman1lacirebon.sch.id) | MIPA | Cirebon `2013-2016`
 #### 2. [Neohistoria](https://neohistoria.net) | Editor | Semarang `2021-2022`
-
+-->
 ## Lisensi dan Sertifikasi :
 #### 1. Workshop & Online Training 2.0 : Text Mining | Text Mining | Semarang `2022`
 #### 2. [Basic Spreadsheet for Data Analysis](https://www.buildwithangga.com) | Data Analysis | Semarang `2022`
