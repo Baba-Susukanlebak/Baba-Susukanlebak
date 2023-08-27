@@ -1,7 +1,7 @@
 # Hi Semua 👋 , Saya Mulyawan - aka [Muhamad Fahri Mulyawan](https://www.linkedin.com/in/muhamad-fahri-mulyawan-477658235/)
 
 ## Tentang Saya:
-- 🔭 Saat ini berkarya di Komunitas [Neohistoria](https://neohistoria.net) sebagai seorang editor
+- 🔭 Saat ini berkarya sebagai seorang editor
 - 🌱 Saat ini sedang mempelajari Graphic Design
 - 👯 Terbuka untuk kolaborasi sebagai Editor dan Graphic Designer
 - 💬 Silakan Memberikan Kritik dan Saran
@@ -10,7 +10,7 @@
 
 ## Rekam Jejak :
 #### 1. [SMAN 1 Lemahabang](https://www.sman1lacirebon.sch.id) | MIPA | Cirebon `2013-2016`
-#### 2. [Neohistoria](https://neohistoria.net) | Editor | Semarang `2021-Present`
+#### 2. [Neohistoria](https://neohistoria.net) | Editor | Semarang `2021-2022`
 
 ## Lisensi dan Sertifikasi :
 #### 1. Workshop & Online Training 2.0 : Text Mining | Text Mining | Semarang `2022`
